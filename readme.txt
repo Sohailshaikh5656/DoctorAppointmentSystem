@@ -37,24 +37,52 @@ Klinic is a simple web-based doctor appointment booking system built using **Cor
 ## 📂 Folder Structure (Example)
 
 DoctorAppointmentSystem/
-├── admin/
-│ ├── manage_doctors.php
-│ ├── manage_patients.php
-│ └── dashboard.php
-├── doctor/
-│ ├── appointments.php
-│ └── schedule.php
-├── patient/
-│ ├── book_appointment.php
-│ └── my_appointments.php
-├── includes/
-│ ├── db.php
-│ ├── functions.php
-│ └── auth_check.php
-├── assets/
-│ └── css/, js/, images/
-├── index.php
-└── login.php
+├── admin/                  # Admin panel files
+├── clinic/                 # Clinic dashboard and related files
+├── common/                 # Shared utilities or functions
+├── css/                    # Stylesheets
+├── dark/                   # Dark theme assets
+├── img/                    # Images and icons
+├── js/                     # JavaScript files
+├── lib/                    # External libraries
+├── other/                  # Miscellaneous files
+├── scss/                   # SCSS files for styling
+├── 404.html                # Custom 404 error page (HTML)
+├── 404.php                 # Custom 404 error page (PHP)
+├── LICENSE.txt             # License information
+├── READ-ME.txt             # Project documentation
+├── about.php               # About page
+├── admin_login.php         # Admin login page
+├── ajax.php                # AJAX handler
+├── appointment.php         # Appointment booking page
+├── appointment_viewmore.php# Detailed appointment view
+├── booking.php             # Booking functionality
+├── calender.php            # Calendar view
+├── change_profile.php      # Profile update page
+├── changepass.php          # Password change functionality
+├── clinic-website-template.jpg # Template image
+├── clinic_details.php      # Clinic details page
+├── clinic_login.php        # Clinic login page
+├── clinic_r.php            # Clinic registration handler
+├── clinic_register.php     # Clinic registration page
+├── contact.php             # Contact page
+├── dashboard.php           # User dashboard
+├── doctor.php              # Doctor information page
+├── doctor_login.php        # Doctor login page
+├── doctor_register.php     # Doctor registration page
+├── doctor_viewmore.php     # Detailed doctor view
+├── feedback.php            # Feedback form
+├── forgot_pass.php         # Password recovery page
+├── index.php               # Homepage
+├── logout.php              # Logout functionality
+├── patient_login.php       # Patient login page
+├── patient_register.php    # Patient registration page
+├── profile.php             # User profile page
+├── search.php              # Search functionality
+├── service.php             # Services offered
+├── service_viewmore.php    # Detailed service view
+└── viewmore.php            # General detailed view page
+
 
 yaml
 Copy
