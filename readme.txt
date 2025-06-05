@@ -109,6 +109,7 @@ mv DoctorAppointmentSystem/ /path-to-xampp/htdocs/
 
 # Step 6: Open in browser
 http://localhost/DoctorAppointmentSystem/
+
 🙋‍♂️ Author
 Shaikh Sohel
 🎓 MCA @ LJ Campus | BCA @ Govt. K.K. Shastri College
