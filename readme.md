@@ -83,18 +83,16 @@ DoctorAppointmentSystem/
 ├── service_viewmore.php    # Detailed service view
 └── viewmore.php            # General detailed view page
 
-Screen Shots
-
-![Screenshot 1](doctor appointment System/app_1.png)
-![Screenshot 1](doctor appointment System/app_2.png)
-
 
 yaml
 Copy
 Edit
 
 ---
+Screen Shots
 
+![Screenshot 1](doctor appointment System/app_1.png)
+![Screenshot 1](doctor appointment System/app_2.png)
 ## 🧑‍💻 How to Run the Project Locally
 
 ```bash
