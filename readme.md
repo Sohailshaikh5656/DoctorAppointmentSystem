@@ -89,10 +89,7 @@ Copy
 Edit
 
 ---
-Screen Shots
 
-![Screenshot 1](doctor%20appointment%20System/app_1.png)
-![Screenshot 2](doctor%20appointment%20System/app_2.png)
 ## 🧑‍💻 How to Run the Project Locally
 
 ```bash
@@ -121,4 +118,28 @@ Shaikh Sohel
 
 📜 License
 This project is open-source and available for educational purposes.
+
+```
+
+## 🖥 Application Screenshots
+
+![Screenshot 1](doctor-appointment-system/app_1.png)
+
+![Screenshot 2](doctor-appointment-system/app_2.png)
+
+![Screenshot 2](doctor-appointment-system/app_3.png)
+
+![Screenshot 2](doctor-appointment-system/app_4.png)
+
+![Screenshot 2](doctor-appointment-system/app_5.png)
+
+![Screenshot 2](doctor-appointment-system/app_6.png)
+
+![Screenshot 2](doctor-appointment-system/app_7.png)
+
+![Screenshot 2](doctor-appointment-system/app_8.png)
+
+![Screenshot 2](doctor-appointment-system/app_9.png)
+
+![Screenshot 2](doctor-appointment-system/app_10.png)
 
