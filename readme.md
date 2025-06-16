@@ -91,8 +91,8 @@ Edit
 ---
 Screen Shots
 
-![Screenshot 1](doctor appointment System/app_1.png)
-![Screenshot 1](doctor appointment System/app_2.png)
+![Screenshot 1](doctor%20appointment%20System/app_1.png)
+![Screenshot 2](doctor%20appointment%20System/app_2.png)
 ## 🧑‍💻 How to Run the Project Locally
 
 ```bash
