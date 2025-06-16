@@ -91,7 +91,9 @@ Edit
 ## 🖥 Application Screenshots
 
 ![Screenshot 1](doctor-appointment-system/app_1.png)
+
 ![Screenshot 2](doctor-appointment-system/app_2.png)
+
 
 ---
 
